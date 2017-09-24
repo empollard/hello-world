@@ -1,2 +1,2 @@
 # hello-world
-It's a first!
+Want to learn java, Python, maybe C# or C++.
